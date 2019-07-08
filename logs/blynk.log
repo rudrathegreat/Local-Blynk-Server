@@ -1,0 +1,194 @@
+13:19:03.574 INFO - Using data dir '/var/folders/tt/pfgz14td2kz204_5c7nmjw8m0000gn/T/blynk'
+13:19:03.631 INFO - Region : local. Host : 192.168.1.103.
+13:19:04.147 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+13:19:04.418 INFO - Reports : 0
+13:19:04.418 INFO - Didn't find custom user certificates.
+13:19:04.420 INFO - Didn't find Let's Encrypt certificates.
+13:19:04.420 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+13:19:04.420 WARN - ATTENTION. Server certificate paths (cert : '/Users/student4/Downloads', key : '/Users/student4/Downloads') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+13:19:05.715 INFO - HTTP API and WebSockets server listening at 8080 port.
+13:19:05.718 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+13:19:05.719 INFO - Mqtt hardware server listening at 8440 port.
+14:26:35.248 INFO - Using data dir '/Users/student4/Downloads/server_data'
+14:26:35.744 INFO - Region : local. Host : 192.168.1.103.
+14:26:36.083 INFO - Initializing gmail smtp mail transport. Username : null. SMTP host : null:null
+14:27:05.343 INFO - Using data dir '/Users/student4/Downloads/server_data'
+14:27:05.800 INFO - Region : local. Host : 192.168.1.103.
+14:27:06.098 INFO - Initializing gmail smtp mail transport. Username : null. SMTP host : null:null
+14:28:14.049 INFO - Using data dir '/Users/student4/Downloads/server_data'
+14:28:14.497 INFO - Region : local. Host : 192.168.1.103.
+14:28:14.816 INFO - Initializing gmail smtp mail transport. Username : null. SMTP host : null:null
+14:29:06.673 INFO - Using data dir '/Users/student4/Downloads/server_data'
+14:29:07.124 INFO - Region : local. Host : 192.168.1.103.
+14:29:07.438 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+14:29:07.490 INFO - Reports : 0
+14:29:07.490 INFO - Didn't find custom user certificates.
+14:29:07.492 INFO - Didn't find Let's Encrypt certificates.
+14:29:07.492 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+14:29:07.492 WARN - ATTENTION. Server certificate paths (cert : '/Users/student4/Downloads', key : '/Users/student4/Downloads') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+14:29:08.491 INFO - HTTP API and WebSockets server listening at 8080 port.
+14:29:08.492 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+14:29:08.493 INFO - Mqtt hardware server listening at 8440 port.
+14:29:53.396 INFO - Using data dir '/Users/student4/Downloads/server_data'
+14:29:53.865 INFO - Region : local. Host : 192.168.1.103.
+14:29:54.178 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+14:29:54.226 INFO - Reports : 0
+14:29:54.226 INFO - Didn't find custom user certificates.
+14:29:54.227 INFO - Didn't find Let's Encrypt certificates.
+14:29:54.228 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+14:29:54.228 WARN - ATTENTION. Server certificate paths (cert : '/Users/student4/Downloads', key : '/Users/student4/Downloads') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+14:29:55.227 INFO - HTTP API and WebSockets server listening at 8080 port.
+14:29:55.229 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+14:29:55.231 INFO - Mqtt hardware server listening at 8440 port.
+14:33:26.492 INFO - Using data dir '/Users/student4/Downloads/server_data'
+14:33:26.963 INFO - Region : local. Host : 192.168.1.103.
+14:33:27.259 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+14:33:27.316 INFO - Reports : 0
+14:33:27.316 INFO - Didn't find custom user certificates.
+14:33:27.318 INFO - Didn't find Let's Encrypt certificates.
+14:33:27.318 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+14:33:27.318 WARN - ATTENTION. Server certificate paths (cert : '/Users/student4/Downloads', key : '/Users/student4/Downloads') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+14:33:28.290 INFO - HTTP API and WebSockets server listening at 8080 port.
+14:33:28.292 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+14:33:28.293 INFO - Mqtt hardware server listening at 8440 port.
+14:39:37.236 INFO - Using data dir '/Users/student4/Downloads/server_data'
+14:39:37.730 INFO - Region : local. Host : 192.168.1.103.
+14:39:38.173 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+14:39:38.227 INFO - Reports : 0
+14:39:38.227 INFO - Didn't find custom user certificates.
+14:39:38.229 INFO - Didn't find Let's Encrypt certificates.
+14:39:38.229 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+14:39:38.229 WARN - ATTENTION. Server certificate paths (cert : '/Users/student4/Downloads', key : '/Users/student4/Downloads') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+14:39:39.473 INFO - HTTP API and WebSockets server listening at 8080 port.
+14:39:39.474 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+14:39:39.475 INFO - Mqtt hardware server listening at 8440 port.
+14:44:22.536 INFO - Using data dir '/Users/student4/Downloads/server_data'
+14:44:23.105 INFO - Region : local. Host : 192.168.1.103.
+14:44:23.478 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+14:44:23.546 INFO - Reports : 0
+14:44:23.546 INFO - Didn't find custom user certificates.
+14:44:23.548 INFO - Didn't find Let's Encrypt certificates.
+14:44:23.549 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+14:44:23.549 WARN - ATTENTION. Server certificate paths (cert : '/Users/student4/Downloads', key : '/Users/student4/Downloads') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+14:44:25.033 INFO - HTTP API and WebSockets server listening at 8080 port.
+14:44:25.035 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+14:44:25.037 INFO - Mqtt hardware server listening at 8440 port.
+14:52:35.276 INFO - Using data dir '/Users/student4/Downloads/server_data'
+14:52:35.904 INFO - Region : local. Host : 192.168.1.103.
+14:52:36.366 INFO - Initializing gmail smtp mail transport. Username : rudrasekhri@gmail.com. SMTP host : smtp.gmail.com:587
+14:52:36.431 INFO - Reports : 0
+14:52:36.432 INFO - Didn't find custom user certificates.
+14:52:36.433 INFO - Didn't find Let's Encrypt certificates.
+14:52:36.433 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+14:52:36.434 WARN - ATTENTION. Server certificate paths (cert : '/Users/student4/Downloads', key : '/Users/student4/Downloads') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+14:52:37.611 INFO - HTTP API and WebSockets server listening at 8080 port.
+14:52:37.612 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+14:52:37.613 INFO - Mqtt hardware server listening at 8440 port.
+14:56:04.155 INFO - Using data dir '/Users/student4/Downloads/server_data'
+14:56:04.704 INFO - Region : local. Host : 192.168.1.103.
+14:56:05.014 INFO - Initializing gmail smtp mail transport. Username : rudrasekhri@gmail.com. SMTP host : smtp.gmail.com:587
+14:56:05.072 INFO - Reports : 0
+14:56:05.073 INFO - Didn't find custom user certificates.
+14:56:05.075 INFO - Didn't find Let's Encrypt certificates.
+14:56:05.075 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+14:56:05.075 WARN - ATTENTION. Server certificate paths (cert : '/Users/student4/Downloads', key : '/Users/student4/Downloads') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+14:56:06.030 INFO - HTTP API and WebSockets server listening at 8080 port.
+14:56:06.032 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+14:56:06.033 INFO - Mqtt hardware server listening at 8440 port.
+14:59:27.218 INFO - rudrasekhri@gmail.com Blynk-app (android-22706) joined.
+15:01:26.077 INFO - rudrasekhri@gmail.com hardware joined.
+15:01:33.883 INFO - rudrasekhri@gmail.com Blynk-app (android-22706) joined.
+15:01:58.817 ERROR- Error sending email auth token to user : rudrasekhri@gmail.com. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials k16sm15794761pfa.87 - gsmtp
+
+15:05:47.807 INFO - Using data dir '/Users/student4/Downloads/server_data'
+15:05:48.368 INFO - Region : local. Host : 192.168.1.103.
+15:05:48.731 INFO - Initializing gmail smtp mail transport. Username : rudrasekhri@gmail.com. SMTP host : smtp.gmail.com:587
+15:05:48.788 INFO - Reports : 0
+15:05:48.788 INFO - Didn't find custom user certificates.
+15:05:48.789 INFO - Didn't find Let's Encrypt certificates.
+15:05:48.790 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+15:05:48.790 WARN - ATTENTION. Server certificate paths (cert : '/Users/student4/Downloads', key : '/Users/student4/Downloads') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+15:05:50.028 INFO - HTTP API and WebSockets server listening at 8080 port.
+15:05:50.030 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+15:05:50.031 INFO - Mqtt hardware server listening at 8440 port.
+15:06:13.419 INFO - rudrasekhri@gmail.com hardware joined.
+15:06:18.536 INFO - rudrasekhri@gmail.com Blynk-app (android-22706) joined.
+15:07:01.919 ERROR- Error sending email auth token to user : rudrasekhri@gmail.com. Error: 530 5.7.0 Must issue a STARTTLS command first. k3sm14616204pgo.81 - gsmtp
+
+15:09:20.780 INFO - Updating config mail.properties. New body : 
+15:09:20.780 INFO - mail.smtp.username=rudrasekhri@gmail.com
+mail.smtp.port=587
+mail.smtp.password=xxxxxxxxx
+mail.smtp.auth=true
+mail.smtp.starttls.enable=true
+mail.smtp.timeout=120000
+mail.smtp.host=smtp.gmail.com
+mail.smtp.connectiontimeout=30000
+15:28:43.005 INFO - Using data dir '/Users/student4/Downloads/server_data'
+15:28:43.620 INFO - Region : local. Host : 192.168.1.103.
+15:28:44.055 INFO - Initializing gmail smtp mail transport. Username : rudrasekhri@gmail.com. SMTP host : smtp.gmail.com:587
+15:28:44.121 INFO - Reports : 0
+15:28:44.121 INFO - Didn't find custom user certificates.
+15:28:44.123 INFO - Didn't find Let's Encrypt certificates.
+15:28:44.123 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+15:28:44.123 WARN - ATTENTION. Server certificate paths (cert : '/Users/student4/Downloads', key : '/Users/student4/Downloads') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+15:28:45.145 INFO - HTTP API and WebSockets server listening at 8080 port.
+15:28:45.146 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+15:28:45.148 INFO - Mqtt hardware server listening at 8440 port.
+15:29:00.620 INFO - rudrasekhri@gmail.com hardware joined.
+15:29:12.999 INFO - rudrasekhri@gmail.com Blynk-app (android-22706) joined.
+15:30:55.914 INFO - rudrasekhri@gmail.com Blynk-app (android-22706) joined.
+15:31:10.612 ERROR- Error sending email auth token to user : rudrasekhri@gmail.com. Error: 530 5.7.0 Must issue a STARTTLS command first. b37sm24980454pjc.15 - gsmtp
+
+15:31:38.725 INFO - rudrasekhri@gmail.com Blynk-app (android-22706) joined.
+15:33:17.197 INFO - rudrasekhri@gmail.com Blynk-app (android-22706) joined.
+15:33:28.839 ERROR- Error sending email auth token to user : rudrasekhri@gmail.com. Error: 530 5.7.0 Must issue a STARTTLS command first. y22sm22075359pfo.39 - gsmtp
+
+15:43:08.289 INFO - Using data dir '/Users/student4/Downloads/server_data'
+15:43:08.896 INFO - Region : local. Host : 192.168.1.103.
+15:43:09.292 INFO - Initializing gmail smtp mail transport. Username : rudrasekhri@gmail.com. SMTP host : smtp.gmail.com:587
+15:43:09.378 INFO - Reports : 0
+15:43:09.379 INFO - Didn't find custom user certificates.
+15:43:09.381 INFO - Didn't find Let's Encrypt certificates.
+15:43:09.381 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+15:43:09.381 WARN - ATTENTION. Server certificate paths (cert : '/Users/student4/Downloads', key : '/Users/student4/Downloads') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+15:43:10.744 INFO - HTTP API and WebSockets server listening at 8080 port.
+15:43:10.746 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+15:43:10.747 INFO - Mqtt hardware server listening at 8440 port.
+15:43:15.494 INFO - rudrasekhri@gmail.com hardware joined.
+15:43:23.541 INFO - rudrasekhri@gmail.com Blynk-app (android-22706) joined.
+15:43:40.495 ERROR- Error sending email auth token to user : rudrasekhri@gmail.com. Error: 530 5.7.0 Must issue a STARTTLS command first. f19sm25365375pfk.180 - gsmtp
+
+15:51:46.676 INFO - Using data dir '/Users/student4/Downloads/server_data'
+15:51:47.303 INFO - Region : local. Host : 192.168.1.103.
+15:51:47.756 INFO - Initializing gmail smtp mail transport. Username : rudrasekhri@gmail.com. SMTP host : smtp.gmail.com:587
+15:51:47.814 INFO - Reports : 0
+15:51:47.814 INFO - Didn't find custom user certificates.
+15:51:47.817 INFO - Didn't find Let's Encrypt certificates.
+15:51:47.817 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+15:51:47.818 WARN - ATTENTION. Server certificate paths (cert : '/Users/student4/Downloads', key : '/Users/student4/Downloads') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+15:51:48.833 INFO - HTTP API and WebSockets server listening at 8080 port.
+15:51:48.835 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+15:51:48.838 INFO - Mqtt hardware server listening at 8440 port.
+15:52:15.550 INFO - rudrasekhri@gmail.com hardware joined.
+15:52:53.943 INFO - rudrasekhri@gmail.com Blynk-app (android-22706) joined.
+15:53:04.573 ERROR- Error sending email auth token to user : rudrasekhri@gmail.com. Error: 530 5.7.0 Must issue a STARTTLS command first. x13sm6802453pfn.6 - gsmtp
+
+15:53:06.285 ERROR- Error sending email auth token to user : rudrasekhri@gmail.com. Error: 530 5.7.0 Must issue a STARTTLS command first. j24sm21269318pgg.86 - gsmtp
+
+15:56:39.149 INFO - Using data dir '/Users/student4/Downloads/server_data'
+15:56:39.748 INFO - Region : local. Host : 192.168.1.103.
+15:56:40.103 INFO - Initializing gmail smtp mail transport. Username : rudratheastronaut@gmail.com. SMTP host : smtp.gmail.com:25
+15:56:40.173 INFO - Reports : 0
+15:56:40.173 INFO - Didn't find custom user certificates.
+15:56:40.175 INFO - Didn't find Let's Encrypt certificates.
+15:56:40.175 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+15:56:40.176 WARN - ATTENTION. Server certificate paths (cert : '/Users/student4/Downloads', key : '/Users/student4/Downloads') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+15:56:41.590 INFO - HTTP API and WebSockets server listening at 8080 port.
+15:56:41.592 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+15:56:41.594 INFO - Mqtt hardware server listening at 8440 port.
+15:56:45.900 INFO - rudrasekhri@gmail.com hardware joined.
+15:56:57.360 INFO - rudrasekhri@gmail.com Blynk-app (android-22706) joined.
+16:36:46.424 INFO - rudrasekhri@gmail.com Blynk-app (android-22706) joined.
+16:37:06.884 INFO - rudrasekhri@gmail.com Blynk-app (android-22706) joined.

@@ -1,0 +1,74 @@
+13:19:03.608 - Separate DB storage disabled.
+13:19:03.609 - Separate DB storage disabled.
+14:26:35.277 - Separate DB storage disabled.
+14:26:35.278 - Separate DB storage disabled.
+14:27:05.371 - Separate DB storage disabled.
+14:27:05.372 - Separate DB storage disabled.
+14:28:14.078 - Separate DB storage disabled.
+14:28:14.080 - Separate DB storage disabled.
+14:29:06.705 - Separate DB storage disabled.
+14:29:06.707 - Separate DB storage disabled.
+14:29:53.425 - Separate DB storage disabled.
+14:29:53.427 - Separate DB storage disabled.
+14:33:26.520 - Separate DB storage disabled.
+14:33:26.521 - Separate DB storage disabled.
+14:39:37.267 - Separate DB storage disabled.
+14:39:37.269 - Separate DB storage disabled.
+14:44:22.574 - Separate DB storage disabled.
+14:44:22.575 - Separate DB storage disabled.
+14:52:35.313 - DB url : jdbc:postgresql://localhost:5432/blynk?tcpKeepAlive=true&socketTimeout=150
+14:52:35.313 - DB user : test
+14:52:35.314 - Connecting to DB...
+14:52:35.445 - Not able connect to DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+14:52:35.446 - Reporting DB url : jdbc:postgresql://localhost:5432/blynk_reporting?tcpKeepAlive=true&socketTimeout=150
+14:52:35.447 - Reporting DB user : test
+14:52:35.447 - Connecting to reporting DB...
+14:52:35.449 - Not able connect to reporting DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+14:56:04.185 - DB url : jdbc:postgresql://localhost:5432/blynk?tcpKeepAlive=true&socketTimeout=150
+14:56:04.185 - DB user : test
+14:56:04.186 - Connecting to DB...
+14:56:04.266 - Not able connect to DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+14:56:04.268 - Reporting DB url : jdbc:postgresql://localhost:5432/blynk_reporting?tcpKeepAlive=true&socketTimeout=150
+14:56:04.268 - Reporting DB user : test
+14:56:04.268 - Connecting to reporting DB...
+14:56:04.270 - Not able connect to reporting DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+15:05:47.838 - DB url : jdbc:postgresql://localhost:5432/blynk?tcpKeepAlive=true&socketTimeout=150
+15:05:47.838 - DB user : test
+15:05:47.839 - Connecting to DB...
+15:05:47.926 - Not able connect to DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+15:05:47.927 - Reporting DB url : jdbc:postgresql://localhost:5432/blynk_reporting?tcpKeepAlive=true&socketTimeout=150
+15:05:47.927 - Reporting DB user : test
+15:05:47.927 - Connecting to reporting DB...
+15:05:47.929 - Not able connect to reporting DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+15:28:43.036 - DB url : jdbc:postgresql://localhost:5432/blynk?tcpKeepAlive=true&socketTimeout=150
+15:28:43.036 - DB user : test
+15:28:43.037 - Connecting to DB...
+15:28:43.163 - Not able connect to DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+15:28:43.164 - Reporting DB url : jdbc:postgresql://localhost:5432/blynk_reporting?tcpKeepAlive=true&socketTimeout=150
+15:28:43.165 - Reporting DB user : test
+15:28:43.165 - Connecting to reporting DB...
+15:28:43.167 - Not able connect to reporting DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+15:43:08.326 - DB url : jdbc:postgresql://localhost:5432/blynk?tcpKeepAlive=true&socketTimeout=150
+15:43:08.326 - DB user : test
+15:43:08.327 - Connecting to DB...
+15:43:08.432 - Not able connect to DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+15:43:08.433 - Reporting DB url : jdbc:postgresql://localhost:5432/blynk_reporting?tcpKeepAlive=true&socketTimeout=150
+15:43:08.433 - Reporting DB user : test
+15:43:08.433 - Connecting to reporting DB...
+15:43:08.436 - Not able connect to reporting DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+15:51:46.710 - DB url : jdbc:postgresql://localhost:5432/blynk?tcpKeepAlive=true&socketTimeout=150
+15:51:46.710 - DB user : test
+15:51:46.710 - Connecting to DB...
+15:51:46.837 - Not able connect to DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+15:51:46.839 - Reporting DB url : jdbc:postgresql://localhost:5432/blynk_reporting?tcpKeepAlive=true&socketTimeout=150
+15:51:46.839 - Reporting DB user : test
+15:51:46.839 - Connecting to reporting DB...
+15:51:46.841 - Not able connect to reporting DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+15:56:39.183 - DB url : jdbc:postgresql://localhost:5432/blynk?tcpKeepAlive=true&socketTimeout=150
+15:56:39.184 - DB user : test
+15:56:39.184 - Connecting to DB...
+15:56:39.282 - Not able connect to DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+15:56:39.284 - Reporting DB url : jdbc:postgresql://localhost:5432/blynk_reporting?tcpKeepAlive=true&socketTimeout=150
+15:56:39.285 - Reporting DB user : test
+15:56:39.285 - Connecting to reporting DB...
+15:56:39.287 - Not able connect to reporting DB. Skipping. Reason : Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
