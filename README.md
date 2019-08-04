@@ -6,32 +6,96 @@ This project is the proof-of-concept stage of a bigger, environmental project. I
 1. Send Auth Tokens to my email using the local server (the hard part)
 2. Being able to send information from the Blynk App to the Arduino and turn LEDs on and off (the easy part)
 
-## The Command to Run the Local Server
+## Files
 
-```Bash
+There are several files which we are going to be using - 
 
-java -jar server-0.41.7.jar -dataFolder server_data -serverConfig server.properties -mailConfig
-mail.properties 
+> The `server-0.41.7.jar` file is used to start a local server on your computer
+>
+> The `blynk-ser-local.sh` file is used to connect our Arduino to our local server
+>
+> The `BlinkLEDArduinoBlynk.ino` file is a program that programs the Arduino to receive commands from a certain device via the local server and with those commands, do something.
+>
+> The `mail.properties` and `server.properties` files are used to configure the server
+
+You can download the files by cloning the project. To do that, you simply need to click the `Clone or Downlaod` button and then select the .zip version. Then, in the Downloads folder, a folder should appear named `Local-Blynk-Server-master`.
+
+## The Arduino Code
+
+What we first need to do is create the code for the Arduino which will allow it to connect to a server (we will define which server in the `blynk-ser-local.sh` file) and then simply be controlled by our phone.
+
+There are two main components to this code. The first is to configure the authorization (authorisation is you are in Australia) token. The Auth Token is used to differentiate one device from another and is used for security purposes - 
+
+```C
+
+char auth[] = "YourAuthToken";
 
 ```
 
-## Arduino Code
+And then implement the Auth Token when configuring the Arduino to connect to a server - 
 
-> https://github.com/rudrathegreat/Local-Blynk-Server/blob/master/BlinkLEDArduinoBlynk/BlinkLEDArduinoBlynk.ino
+```C
 
-## .properties Files
+Blynk.begin(Serial, auth);
 
-> https://github.com/rudrathegreat/Local-Blynk-Server/blob/master/mail.properties
->
-> https://github.com/rudrathegreat/Local-Blynk-Server/blob/master/server.properties
+```
 
-## The Hard Part
+In this line, it is basically creating a Blynk connection to the Blynk Server. This line is specifying what type of connection it is (in this case serial) and the Auth Token.
 
-The hard part was not exactly the hard part. The mail.properties file is the file that allows the Blynk Server to email you [the Auth Token]. You can edit the email address in the mail.properties file. All it needs is your email address, the password of that email address, smtp server for your mailing application (unfortunately only supports Gmail) and the port. The local Blynk Server will access that email address and then write an email to you which includes the Auth Token.
+You can find the rest of the Arduino Code is here - https://github.com/rudrathegreat/Local-Blynk-Server/blob/master/BlinkLEDArduinoBlynk/BlinkLEDArduinoBlynk.ino
 
-## The Easy Part
+## Starting a Local Blynk Server
 
-This part can be done by anyone as this part is well-documented on the internet via videos and Blynk documentation.
+Now we need to start the Blynk Server. To do that, we need to run the `server-0.41.7.jar` file in the terminal. We need to run the following command to not only start the server but also configure the server to our needs - 
+
+```Bash
+
+java -jar server-0.41.7.jar -dataFolder server_data -serverConfig server.properties -mailConfig mail.properties 
+
+```
+
+Now it should start a server on your computer's IP address. An IP address is a code that distinguishes your device from another. To check which IP address, simply type - 
+
+```Bash
+
+ipconfig getifaddr en0
+
+```
+
+That command only works if you are connected to the Internet via WiFi. To check your IP address if you are connected on Ethernet, replace the `en0` with `en1`.
+
+## Connecting the Arduino to that Local Blynk Server
+
+Once you have received your IP address, copy that and then open the `blynk-ser-local.sh` file. This file allows the Arduino to connect to our server. There is one line in particular that we need to edit and that it the following - 
+
+```Bash
+
+SERV_ADDR=192.168.1.103
+
+```
+
+Instead of that, it should be - 
+
+```Bash
+
+SERVER_ADDR={{YourIPAddress}}
+
+```
+
+Remove the initial IP address and replace it with your IP address. Once you have done that, save it and then run it by using the following command in the terminal - 
+
+```Bash
+
+./blynk-ser-local.sh
+
+```
+
+It will ask for what port your Arduino is connected to. Usually, you will only have one Arduino connected to the computer and so the `blynk-ser-local.sh` file will only show you one port number. Copy the port number which your Arduino is connected to and paste it after the colon (where you are supposed to put your port number in). The following image explains it a bit better.
+
+Once you have done that, press enter and now your Arduino is connected to your server.
+
+## Phone Time
+
 
 ## Conclusion
 
